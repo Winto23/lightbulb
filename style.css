@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+.ff-ubuntu {
+  font-family: "Ubuntu", sans-serif;
+}
+.fa-lightbulb {
+  font-size: 120px;
+}
+.switch {
+  box-shadow: 3px 3px 3px 3px black;
+}
+.switch:hover{
+    box-shadow: none;
+}
+.row {
+  background-color: #efe8e5;
+  box-shadow: 3px 3px 3px 3px black;
+}
